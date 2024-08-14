@@ -4,7 +4,7 @@ My name is Hailey and I am an environmental science student with a passion for n
 
 # About Me
 - 🔭 I’m currently working on MycoMaps, a github repository project that includes Fungal and Protozoan data sets and applications for R and GIS Systems.
-- 🌱 I’m currently learning advanced GIS techniques, R, and data analysis.
+- 🌱 I’m currently learning GIS techniques, R, and data analysis.
 - 🍄 I’m looking to collaborate on Ecology data science projects! I am particularly interested in Mycology and Protozoology, but I am passionate about all types of ecosystems.
 
  # Connect with Me
